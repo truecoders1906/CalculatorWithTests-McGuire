@@ -1,14 +1,15 @@
 ﻿using System;
-namespace CalculatorWithTests
-{
-    class Calculator
+
+namespace Calculator
+{ 
+    public class Calculator
     {
-        public int Add(int a, int b)
+        public int AddTogether(int a, int b)
         {
             throw new NotImplementedException();
         }
 
-        public int Subtract(int a, int b)
+        public int  Subtract(int a, int b)
         {
             throw new NotImplementedException();
         }
