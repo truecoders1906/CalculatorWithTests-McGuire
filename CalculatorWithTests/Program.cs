@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace CalculatorWithTests
+namespace Calculatorr
+
 {
     class Program
     {
